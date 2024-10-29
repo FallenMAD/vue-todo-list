@@ -73,6 +73,7 @@
           </form>
           <span class=""></span>
           <button class="text-red-500 font-bold">x</button>
+          <p></p>
 
           <!-- <div class="fixed inset-0 flex items-center justify-center">
             <div
