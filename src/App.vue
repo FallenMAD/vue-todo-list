@@ -75,6 +75,8 @@
           <button class="text-red-500 font-bold">x</button>
           <p></p>
 
+          <button>submit</button>
+
           <!-- <div class="fixed inset-0 flex items-center justify-center">
             <div
               class="has-background-white-ter absolute inset-0 bg-white opacity-75"
